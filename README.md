@@ -19,5 +19,5 @@ BST code for finding mix/max, removal min/max, bst sorting and basic printing of
 # [Project 3: Database Project for using EmpID](https://github.com/wats3082/DatabaseProject.git) 
 Ongoing database design to add/delete and view users required info (address/state/zip code/name)
 
-![](/zazaza.jpg)
+![](/zsaza.jpg)
 
