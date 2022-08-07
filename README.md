@@ -11,7 +11,7 @@
 ![](/ZZAAAASS.jpg)
 
 
-# [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
-For this example project I built a 
+# [Project 2: Random Binary Search Tree search/sort](https://github.com/PlayingNumbers/ball_image_classifier) 
+BST code for finding mix/max, removal min/max, bst sorting and basic printing of leaf/node
 
-![](/images/matrix_results.png)
+![](/zazaz.jpg)
