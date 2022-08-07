@@ -14,4 +14,4 @@
 # [Project 2: Random Binary Search Tree search/sort](https://github.com/PlayingNumbers/ball_image_classifier) 
 BST code for finding mix/max, removal min/max, bst sorting and basic printing of leaf/node
 
-![](/zazaz.jpg)
+![](/zazaza.jpg)
