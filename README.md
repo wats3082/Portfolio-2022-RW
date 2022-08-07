@@ -8,7 +8,7 @@
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-![](/positions_by_state.png)
+![](/ZZAAAASS.jpg)
 
 
 # [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
