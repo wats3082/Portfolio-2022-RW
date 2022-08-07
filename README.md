@@ -1,10 +1,10 @@
-# Russell_Watson_Portfolio
+# https://wats3082.github.io/Russell_Watson_Portfolio/
 
 
 
 
 
-# [Project 1: REST API/LOCAL WEATHER CONDITIONS](https://github.com/PlayingNumbers/ds_salary_proj) 
+# [Project 1: REST API/LOCAL WEATHER CONDITIONS](https://github.com/wats3082/WeatherAppProject.git) 
 * Created a tool that displays current weather conditions. Can be customized on what condiitons to display to end user. Ongoing GUI updates. Built using Python/Flask and TKinter
 
 
