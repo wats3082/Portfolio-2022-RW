@@ -8,6 +8,10 @@
 * Created a tool using OpenWeather. Displays current weather conditions. Can be customized on what condiitons to display to end user. Ongoing GUI updates. Built using Python/Flask and TKinter
 
 
+# [Project 2: AWS Translate
+* *****
+
+
 ![](/ZZAAAASS.jpg)
 
 
