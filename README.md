@@ -6,7 +6,7 @@
 
 # [Project 1: Local Weather Conditions](https://github.com/wats3082/WeatherAppProject.git) 
 * Created a tool using OpenWeather. Displays current weather conditions. Can be customized on what condiitons to display to end user. Ongoing GUI updates. Built using Python/Flask and TKinter
-
+![](/appweather.png)
 
 # [Project 2: AWS Translate
 * *****
