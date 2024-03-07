@@ -1,8 +1,5 @@
 
 
-## Description ##
-
-Portfolio circa 2022. Include openweather api app, database from scratch, AWS translate and Random Binary Search Tree.
 
 # [Portfolio Link](https://russw.org/)
 
